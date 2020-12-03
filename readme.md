@@ -1,9 +1,14 @@
 # DynamoDb
 
+[![Latest Stable Version](https://poser.pugx.org/matteomeloni/dynamodb/v)](//packagist.org/packages/matteomeloni/dynamodb) 
+[![Total Downloads](https://poser.pugx.org/matteomeloni/dynamodb/downloads)](//packagist.org/packages/matteomeloni/dynamodb)
+[![Latest Unstable Version](https://poser.pugx.org/matteomeloni/dynamodb/v/unstable)](//packagist.org/packages/matteomeloni/dynamodb)
+[![License](https://poser.pugx.org/matteomeloni/dynamodb/license)](//packagist.org/packages/matteomeloni/dynamodb)
+
+
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
-[![Build Status][ico-travis]][link-travis]
-[![StyleCI][ico-styleci]][link-styleci]
+
 
 This is where your description should go. Take a look at [contributing.md](contributing.md) to see a to do list.
 
@@ -43,12 +48,6 @@ If you discover any security related issues, please email author email instead o
 ## License
 
 license. Please see the [license file](license.md) for more information.
-
-[ico-version]: https://img.shields.io/packagist/v/matteomeloni/dynamodb.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/matteomeloni/dynamodb.svg?style=flat-square
-
-[link-packagist]: https://packagist.org/packages/matteomeloni/dynamodb
-[link-downloads]: https://packagist.org/packages/matteomeloni/dynamodb
 
 [link-author]: https://github.com/matteomeloni
 [link-contributors]: ../../contributors
