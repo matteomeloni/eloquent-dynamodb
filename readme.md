@@ -44,7 +44,10 @@ If you discover any security related issues, please email author email instead o
 
 license. Please see the [license file](license.md) for more information.
 
-[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/v)](//packagist.org/packages/phpunit/phpunit) 
-[![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](//packagist.org/packages/phpunit/phpunit) 
-[![Latest Unstable Version](https://poser.pugx.org/phpunit/phpunit/v/unstable)](//packagist.org/packages/phpunit/phpunit) 
-[![License](https://poser.pugx.org/phpunit/phpunit/license)](//packagist.org/packages/phpunit/phpunit)
+[ico-version]: https://img.shields.io/packagist/v/matteomeloni/dynamodb.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/matteomeloni/dynamodb.svg?style=flat-square
+
+[![Latest Stable Version](https://poser.pugx.org/matteomeloni/dynamodb/v)](//packagist.org/packages/matteomeloni/dynamodb) 
+[![Total Downloads](https://poser.pugx.org/matteomeloni/dynamodb/downloads)](//packagist.org/packages/matteomeloni/dynamodb) 
+[![Latest Unstable Version](https://poser.pugx.org/matteomeloni/dynamodb/v/unstable)](//packagist.org/packages/matteomeloni/dynamodb) 
+[![License](https://poser.pugx.org/matteomeloni/dynamodb/license)](//packagist.org/packages/matteomeloni/dynamodb)
