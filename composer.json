@@ -1,7 +1,7 @@
 {
     "name": "matteomeloni/dynamodb",
-    "description": ":package_description",
-    "license": "license",
+    "description": "Eloquent syntax for DynamoDB",
+    "license": "MIT",
     "authors": [
         {
             "name": "Matteo Meloni",
