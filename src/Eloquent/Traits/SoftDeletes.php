@@ -1,6 +1,6 @@
 <?php
 
-namespace MatteoMeloni\DynamoDb\Eloquent;
+namespace MatteoMeloni\DynamoDb\Eloquent\Traits;
 
 use Carbon\Carbon;
 
