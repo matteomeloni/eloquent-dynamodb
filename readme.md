@@ -44,14 +44,7 @@ If you discover any security related issues, please email author email instead o
 
 license. Please see the [license file](license.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/matteomeloni/dynamodb.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/matteomeloni/dynamodb.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/matteomeloni/dynamodb/master.svg?style=flat-square
-[ico-styleci]: https://styleci.io/repos/12345678/shield
-
-[link-packagist]: https://packagist.org/packages/matteomeloni/dynamodb
-[link-downloads]: https://packagist.org/packages/matteomeloni/dynamodb
-[link-travis]: https://travis-ci.org/matteomeloni/dynamodb
-[link-styleci]: https://styleci.io/repos/12345678
-[link-author]: https://github.com/matteomeloni
-[link-contributors]: ../../contributors
+[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/v)](//packagist.org/packages/phpunit/phpunit) 
+[![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](//packagist.org/packages/phpunit/phpunit) 
+[![Latest Unstable Version](https://poser.pugx.org/phpunit/phpunit/v/unstable)](//packagist.org/packages/phpunit/phpunit) 
+[![License](https://poser.pugx.org/phpunit/phpunit/license)](//packagist.org/packages/phpunit/phpunit)
