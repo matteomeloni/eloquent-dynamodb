@@ -1,6 +1,6 @@
 {
     "name": "matteomeloni/dynamodb",
-    "description": "Eloquent syntax for DynamoDB",
+    "description": "A AWS DynamoDB based Eloquent model and Query builder for Laravel",
     "license": "MIT",
     "authors": [
         {
