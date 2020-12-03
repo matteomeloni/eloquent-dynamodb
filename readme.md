@@ -1,6 +1,6 @@
 # DynamoDb
 
-[![Latest Stable Version](https://poser.pugx.org/matteomeloni/dynamodb/v)](//packagist.org/packages/matteomeloni/dynamodb) 
+[![Latest Stable Version](https://poser.pugx.org/matteomeloni/dynamodb/v/stable)](//packagist.org/packages/matteomeloni/dynamodb) 
 [![Total Downloads](https://poser.pugx.org/matteomeloni/dynamodb/downloads)](//packagist.org/packages/matteomeloni/dynamodb)
 [![Latest Unstable Version](https://poser.pugx.org/matteomeloni/dynamodb/v/unstable)](//packagist.org/packages/matteomeloni/dynamodb)
 [![License](https://poser.pugx.org/matteomeloni/dynamodb/license)](//packagist.org/packages/matteomeloni/dynamodb)
