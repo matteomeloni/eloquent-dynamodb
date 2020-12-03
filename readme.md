@@ -27,7 +27,7 @@ class User extends Model
 ```
 ---
 
-####Retrive All Models
+**Retrive All Models**
 ```php
 $users = App\User::all();
 
@@ -40,7 +40,7 @@ $users = new User();
 $users = $users->where('field', 'operator', 'value')->get();
 ```
 
-####Retrieving Single Models
+**Retrieving Single Models**
 ```php
 $user = new App\User();
 
@@ -99,7 +99,7 @@ $users->delete();
 ```
 
 ---
-###Soft Deleting
+### Soft Deleting
 To enable soft deletes for a model, use the Mmrp\Dynamodb\Traits\SoftDeletes trait on the model
 ```php
 use MatteoMeloni\DynamoDb\Eloquent\Model;
