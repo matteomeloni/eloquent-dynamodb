@@ -5,11 +5,6 @@
 [![Latest Unstable Version](https://poser.pugx.org/matteomeloni/dynamodb/v/unstable)](//packagist.org/packages/matteomeloni/dynamodb)
 [![License](https://poser.pugx.org/matteomeloni/dynamodb/license)](//packagist.org/packages/matteomeloni/dynamodb)
 
-
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Total Downloads][ico-downloads]][link-downloads]
-
-
 This is where your description should go. Take a look at [contributing.md](contributing.md) to see a to do list.
 
 ## Installation
@@ -42,7 +37,7 @@ If you discover any security related issues, please email author email instead o
 
 ## Credits
 
-- [author name][link-author]
+- [Matteo Meloni][link-author]
 - [All Contributors][link-contributors]
 
 ## License
